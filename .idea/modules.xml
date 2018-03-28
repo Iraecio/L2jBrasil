@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/L2jBrasil.iml" filepath="$PROJECT_DIR$/.idea/L2jBrasil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2JBrasil_CORE/L2JBrasil_CORE.iml" filepath="$PROJECT_DIR$/L2JBrasil_CORE/L2JBrasil_CORE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2JBrasil_MMOCore/L2JBrasil_MMOCore.iml" filepath="$PROJECT_DIR$/L2JBrasil_MMOCore/L2JBrasil_MMOCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2JBrasil_DP/data/data.iml" filepath="$PROJECT_DIR$/L2JBrasil_DP/data/data.iml" />
     </modules>
   </component>
 </project>
