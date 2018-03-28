@@ -1,0 +1,15 @@
+2018.03.27 23:53:33,951	INFO	1	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+2018.03.27 23:53:34,308	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.2-pre6 [built 22-November-2012 13:13:33 +0000; debug? true; trace: 10]
+2018.03.27 23:53:34,383	INFO	1	com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource	Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 0, acquireRetryDelay -> 500, autoCommitOnClose -> true, automaticTestTable -> connection_test_table, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1bqzfnl9utm6vea1j5av3c|51b279c9, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1bqzfnl9utm6vea1j5av3c|51b279c9, idleConnectionTestPeriod -> 3600, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://localhost/l2jdb, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 100, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, properties -> {password=******, user=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2018.03.27 23:53:34,683	INFO	1	com.it.br.loginserver.LoginController	Loading LoginContoller...
+2018.03.27 23:53:35,234	INFO	1	com.it.br.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2018.03.27 23:53:35,269	INFO	1	com.it.br.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2018.03.27 23:53:35,330	INFO	1	com.it.br.loginserver.GameServerTable	Loaded 127 server names
+2018.03.27 23:53:35,335	INFO	1	com.it.br.loginserver.GameServerTable	Loaded 1 registered Game Servers
+2018.03.27 23:53:35,410	INFO	1	com.it.br.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2018.03.27 23:53:35,411	CONFIG	1	com.it.br.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2018.03.27 23:53:35,427	INFO	1	com.it.br.loginserver.L2LoginServer	Listening for GameServers on *:9014
+2018.03.27 23:53:35,428	INFO	1	com.it.br.loginserver.L2LoginServer	Login Server ready on *:2106
+2018.03.27 23:53:38,014	INFO	23	com.it.br.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2018.03.27 23:53:38,014	INFO	23	com.it.br.loginserver.GameServerThread	InternalIP: 127.0.0.1
+2018.03.27 23:53:38,014	INFO	23	com.it.br.loginserver.GameServerThread	ExternalIP: 127.0.0.1
