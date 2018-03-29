@@ -2,346 +2,346 @@
 Lista de todas as quest testadas e ainda em fase de teste
 
 ### lista
- - [  ] quests/1_LettersOfLove/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/2_WhatWomenWant/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/3_WillSealBeBroken/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/4_LongLiveLordOfFlame/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/5_MinersFavor/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/6_StepIntoTheFuture/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/7_ATripBegins/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/8_AnAdventureBegins/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/9_IntoTheCityOfHumans/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/10_IntoTheWorld/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/11_SecretMeetingWithKetraOrcs/init.py#Tested by LeonardoHolanda and Working
- - [  ] quests/12_SecretMeetingWithVarkaSilenos/init.py#Tested by LeonardoHolanda and Working
- - [  ] quests/13_ParcelDelivery/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/14_WhereaboutsOfTheArchaeologist/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/15_SweetWhisper/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/16_TheComingDarkness/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/17_LightAndDarkness/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/18_MeetingWithTheGoldenRam/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/19_GoToThePastureland/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/20_BringUpWithLove/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/21_HiddenTruth/init.py
- - [  ] quests/22_TragedyInVonHellmannForest/init.py
- - [  ] quests/23_LidiasHeart/init.py
- - [  ] quests/24_InhabitantsOfTheForrestOfTheDead/init.py
- - [  ] quests/25_HidingBehindTheTruth/init.py
- - [  ] quests/27_ChestCaughtWithABaitOfWind/init.py
- - [  ] quests/28_ChestCaughtWithABaitOfIcyAir/init.py
- - [  ] quests/29_ChestCaughtWithABaitOfEarth/init.py
- - [  ] quests/30_ChestCaughtWithABaitOfFire/init.py
- - [  ] quests/31_SecretBuriedInTheSwamp/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/32_AnObviousLie/init.py
- - [  ] quests/33_MakeAPairOfDressShoes/init.py
- - [  ] quests/34_InSearchOfClothes/init.py
- - [  ] quests/35_FindGlitteringJewelry/init.py
- - [  ] quests/36_MakeASewingKit/init.py
- - [  ] quests/37_PleaseMakeMeFormalWear/init.py
- - [  ] quests/38_DragonFangs/init.py
- - [  ] quests/39_RedEyedInvaders/init.py
- - [  ] quests/42_HelpTheUncle/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/43_HelpTheSister/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/44_HelpTheSon/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/45_ToTalkingIsland/init.py
- - [  ] quests/46_OnceMoreInTheArmsOfTheMotherTree/init.py
- - [  ] quests/47_IntoTheDarkForest/init.py
- - [  ] quests/48_ToTheImmortalPlateau/init.py
- - [  ] quests/49_TheRoadHome/init.py #Tested by Anderuimm
- - [  ] quests/50_LanoscosSpecialBait/init.py
- - [  ] quests/51_OFullesSpecialBait/init.py
- - [  ] quests/52_WilliesSpecialBait/init.py
- - [  ] quests/53_LinnaeusSpecialBait/init.py
- - [  ] quests/70_SagaOfThePhoenixKnight/init.py
- - [  ] quests/71_SagaOfEvasTemplar/init.py
- - [  ] quests/72_SagaOfTheSwordMuse/init.py
- - [  ] quests/73_SagaOfTheDuelist/init.py
- - [  ] quests/74_SagaOfTheDreadnoughts/init.py
- - [  ] quests/75_SagaOfTheTitan/init.py
- - [  ] quests/76_SagaOfTheGrandKhavatari/init.py
- - [  ] quests/77_SagaOfTheDominator/init.py
- - [  ] quests/78_SagaOfTheDoomcryer/init.py
- - [  ] quests/79_SagaOfTheAdventurer/init.py
- - [  ] quests/80_SagaOfTheWindRider/init.py
- - [  ] quests/81_SagaOfTheGhostHunter/init.py
- - [  ] quests/82_SagaOfTheSagittarius/init.py
- - [  ] quests/83_SagaOfTheMoonlightSentinel/init.py
- - [  ] quests/84_SagaOfTheGhostSentinel/init.py
- - [  ] quests/85_SagaOfTheCardinal/init.py
- - [  ] quests/86_SagaOfTheHierophant/init.py
- - [  ] quests/87_SagaOfEvasSaint/init.py
- - [  ] quests/88_SagaOfTheArchmage/init.py
- - [  ] quests/89_SagaOfTheMysticMuse/init.py
- - [  ] quests/90_SagaOfTheStormScreamer/init.py
- - [  ] quests/91_SagaOfTheArcanaLord/init.py
- - [  ] quests/92_SagaOfTheElementalMaster/init.py
- - [  ] quests/93_SagaOfTheSpectralMaster/init.py
- - [  ] quests/94_SagaOfTheSoultaker/init.py
- - [  ] quests/95_SagaOfTheHellKnight/init.py
- - [  ] quests/96_SagaOfTheSpectralDancer/init.py
- - [  ] quests/97_SagaOfTheShillienTemplar/init.py
- - [  ] quests/98_SagaOfTheShillienSaint/init.py
- - [  ] quests/99_SagaOfTheFortuneSeeker/init.py
- - [  ] quests/100_SagaOfTheMaestro/init.py
+- [ ]  quests/1_LettersOfLove/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/2_WhatWomenWant/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/3_WillSealBeBroken/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/4_LongLiveLordOfFlame/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/5_MinersFavor/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/6_StepIntoTheFuture/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/7_ATripBegins/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/8_AnAdventureBegins/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/9_IntoTheCityOfHumans/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/10_IntoTheWorld/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/11_SecretMeetingWithKetraOrcs/init.py#Tested by LeonardoHolanda and Working
+- [ ]  quests/12_SecretMeetingWithVarkaSilenos/init.py#Tested by LeonardoHolanda and Working
+- [ ]  quests/13_ParcelDelivery/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/14_WhereaboutsOfTheArchaeologist/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/15_SweetWhisper/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/16_TheComingDarkness/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/17_LightAndDarkness/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/18_MeetingWithTheGoldenRam/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/19_GoToThePastureland/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/20_BringUpWithLove/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/21_HiddenTruth/init.py
+- [ ]  quests/22_TragedyInVonHellmannForest/init.py
+- [ ]  quests/23_LidiasHeart/init.py
+- [ ]  quests/24_InhabitantsOfTheForrestOfTheDead/init.py
+- [ ]  quests/25_HidingBehindTheTruth/init.py
+- [ ]  quests/27_ChestCaughtWithABaitOfWind/init.py
+- [ ]  quests/28_ChestCaughtWithABaitOfIcyAir/init.py
+- [ ]  quests/29_ChestCaughtWithABaitOfEarth/init.py
+- [ ]  quests/30_ChestCaughtWithABaitOfFire/init.py
+- [ ]  quests/31_SecretBuriedInTheSwamp/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/32_AnObviousLie/init.py
+- [ ]  quests/33_MakeAPairOfDressShoes/init.py
+- [ ]  quests/34_InSearchOfClothes/init.py
+- [ ]  quests/35_FindGlitteringJewelry/init.py
+- [ ]  quests/36_MakeASewingKit/init.py
+- [ ]  quests/37_PleaseMakeMeFormalWear/init.py
+- [ ]  quests/38_DragonFangs/init.py
+- [ ]  quests/39_RedEyedInvaders/init.py
+- [ ]  quests/42_HelpTheUncle/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/43_HelpTheSister/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/44_HelpTheSon/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/45_ToTalkingIsland/init.py
+- [ ]  quests/46_OnceMoreInTheArmsOfTheMotherTree/init.py
+- [ ]  quests/47_IntoTheDarkForest/init.py
+- [ ]  quests/48_ToTheImmortalPlateau/init.py
+- [ ]  quests/49_TheRoadHome/init.py #Tested by Anderuimm
+- [ ]  quests/50_LanoscosSpecialBait/init.py
+- [ ]  quests/51_OFullesSpecialBait/init.py
+- [ ]  quests/52_WilliesSpecialBait/init.py
+- [ ]  quests/53_LinnaeusSpecialBait/init.py
+- [ ]  quests/70_SagaOfThePhoenixKnight/init.py
+- [ ]  quests/71_SagaOfEvasTemplar/init.py
+- [ ]  quests/72_SagaOfTheSwordMuse/init.py
+- [ ]  quests/73_SagaOfTheDuelist/init.py
+- [ ]  quests/74_SagaOfTheDreadnoughts/init.py
+- [ ]  quests/75_SagaOfTheTitan/init.py
+- [ ]  quests/76_SagaOfTheGrandKhavatari/init.py
+- [ ]  quests/77_SagaOfTheDominator/init.py
+- [ ]  quests/78_SagaOfTheDoomcryer/init.py
+- [ ]  quests/79_SagaOfTheAdventurer/init.py
+- [ ]  quests/80_SagaOfTheWindRider/init.py
+- [ ]  quests/81_SagaOfTheGhostHunter/init.py
+- [ ]  quests/82_SagaOfTheSagittarius/init.py
+- [ ]  quests/83_SagaOfTheMoonlightSentinel/init.py
+- [ ]  quests/84_SagaOfTheGhostSentinel/init.py
+- [ ]  quests/85_SagaOfTheCardinal/init.py
+- [ ]  quests/86_SagaOfTheHierophant/init.py
+- [ ]  quests/87_SagaOfEvasSaint/init.py
+- [ ]  quests/88_SagaOfTheArchmage/init.py
+- [ ]  quests/89_SagaOfTheMysticMuse/init.py
+- [ ]  quests/90_SagaOfTheStormScreamer/init.py
+- [ ]  quests/91_SagaOfTheArcanaLord/init.py
+- [ ]  quests/92_SagaOfTheElementalMaster/init.py
+- [ ]  quests/93_SagaOfTheSpectralMaster/init.py
+- [ ]  quests/94_SagaOfTheSoultaker/init.py
+- [ ]  quests/95_SagaOfTheHellKnight/init.py
+- [ ]  quests/96_SagaOfTheSpectralDancer/init.py
+- [ ]  quests/97_SagaOfTheShillienTemplar/init.py
+- [ ]  quests/98_SagaOfTheShillienSaint/init.py
+- [ ]  quests/99_SagaOfTheFortuneSeeker/init.py
+- [ ]  quests/100_SagaOfTheMaestro/init.py
  [- [  ] quests/101_SwordOfSolidarity/init.py]
 (47a1f34) Tested and Fixed by LeonardoHolanda
- - [  ] quests/102_SeaOfSporesFever/init.py #Tested and Fixed by LeonardoHolanda
- - [  ] quests/103_SpiritOfCraftsman/init.py
- - [  ] quests/104_SpiritOfMirrors/init.py Tested and Fixed by LeonardoHolanda
- - [  ] quests/105_SkirmishWithOrcs/init.py
- - [  ] quests/106_ForgottenTruth/init.py
- - [  ] quests/107_MercilessPunishment/init.py
- - [  ] quests/108_JumbleTumbleDiamondFuss/init.py
- - [  ] quests/109_InSearchOfTheNest/init.py
- - [  ] quests/110_ToThePrimevalIsle/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/111_Elrokian_Hunters/init.py
- - [  ] quests/112_WalkOfFate/init.py Tested and Fixed by LeonardoHolanda
- - [  ] quests/113_StatusOfTheBeaconTower/init.py
- - [  ] quests/114_ResurrectionOfAnOldManager/init.py
- - [  ] quests/115_TheOtherSideOfTruth/init.py
- - [  ] quests/116_BeyondTheHillsOfWinter/init.py
- - [  ] quests/117_OceanOfDistantStar/init.py
- - [  ] quests/118_ToLeadAndBeLed/init.py
- - [  ] quests/119_LastImperialPrince/init.py
- - [  ] quests/120_PavelsResearch/init.py
- - [  ] quests/121_PavelTheGiants/init.py
- - [  ] quests/122_OminousNews/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/123_TheLeaderAndTheFollower/init.py
- - [  ] quests/124_MeetingTheElroki/init.py
- - [  ] quests/127_KamaelAWindowToTheFuture/init.py
- - [  ] quests/151_CureFeverDisease/init.py #Tested by Anderuimm and LeonardoHolanda
- - [  ] quests/152_ShardsOfGolem/init.py
- - [  ] quests/153_DeliverGoods/init.py #Tested by Anderuimm and LeonardoHolanda
- - [  ] quests/154_SacrificeToSea/init.py
- - [  ] quests/155_FindSirWindawood/init.py #Tested by Anderuimm
- - [  ] quests/156_MillenniumLove/init.py
- - [  ] quests/157_RecoverSmuggled/init.py #Tested by Anderuimm
- - [  ] quests/158_SeedOfEvil/init.py
- - [  ] quests/159_ProtectTheWaterSource/init.py
- - [  ] quests/160_NerupasRequest/init.py #Tested by Anderuimm
- - [  ] quests/161_FruitsOfMothertree/init.py #Tested by Anderuimm
- - [  ] quests/162_CurseOfFortress/init.py
- - [  ] quests/163_LegacyOfPoet/init.py
- - [  ] quests/164_BloodFiend/init.py
- - [  ] quests/165_ShilensHunt/init.py
- - [  ] quests/166_MassOfDarkness/init.py
- - [  ] quests/167_DwarvenKinship/init.py
- - [  ] quests/168_DeliverSupplies/init.py
- - [  ] quests/169_OffspringOfNightmares/init.py
- - [  ] quests/170_DangerousSeduction/init.py
- - [  ] quests/171_ActsOfEvil/init.py
- - [  ] quests/211_TrialOfChallenger/init.py
- - [  ] quests/212_TrialOfDuty/init.py
- - [  ] quests/213_TrialOfSeeker/init.py
-[x] - [  ] quests/214_TrialOfScholar/init.py # Tested byNattan Felipe
- - [  ] quests/215_TrialOfPilgrim/init.py
- - [  ] quests/216_TrialOfGuildsman/init.py
- - [  ] quests/217_TestimonyOfTrust/init.py
- - [  ] quests/218_TestimonyOfLife/init.py
+- [ ]  quests/102_SeaOfSporesFever/init.py #Tested and Fixed by LeonardoHolanda
+- [ ]  quests/103_SpiritOfCraftsman/init.py
+- [ ]  quests/104_SpiritOfMirrors/init.py Tested and Fixed by LeonardoHolanda
+- [ ]  quests/105_SkirmishWithOrcs/init.py
+- [ ]  quests/106_ForgottenTruth/init.py
+- [ ]  quests/107_MercilessPunishment/init.py
+- [ ]  quests/108_JumbleTumbleDiamondFuss/init.py
+- [ ]  quests/109_InSearchOfTheNest/init.py
+- [ ]  quests/110_ToThePrimevalIsle/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/111_Elrokian_Hunters/init.py
+- [ ]  quests/112_WalkOfFate/init.py Tested and Fixed by LeonardoHolanda
+- [ ]  quests/113_StatusOfTheBeaconTower/init.py
+- [ ]  quests/114_ResurrectionOfAnOldManager/init.py
+- [ ]  quests/115_TheOtherSideOfTruth/init.py
+- [ ]  quests/116_BeyondTheHillsOfWinter/init.py
+- [ ]  quests/117_OceanOfDistantStar/init.py
+- [ ]  quests/118_ToLeadAndBeLed/init.py
+- [ ]  quests/119_LastImperialPrince/init.py
+- [ ]  quests/120_PavelsResearch/init.py
+- [ ]  quests/121_PavelTheGiants/init.py
+- [ ]  quests/122_OminousNews/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/123_TheLeaderAndTheFollower/init.py
+- [ ]  quests/124_MeetingTheElroki/init.py
+- [ ]  quests/127_KamaelAWindowToTheFuture/init.py
+- [ ]  quests/151_CureFeverDisease/init.py #Tested by Anderuimm and LeonardoHolanda
+- [ ]  quests/152_ShardsOfGolem/init.py
+- [ ]  quests/153_DeliverGoods/init.py #Tested by Anderuimm and LeonardoHolanda
+- [ ]  quests/154_SacrificeToSea/init.py
+- [ ]  quests/155_FindSirWindawood/init.py #Tested by Anderuimm
+- [ ]  quests/156_MillenniumLove/init.py
+- [ ]  quests/157_RecoverSmuggled/init.py #Tested by Anderuimm
+- [ ]  quests/158_SeedOfEvil/init.py
+- [ ]  quests/159_ProtectTheWaterSource/init.py
+- [ ]  quests/160_NerupasRequest/init.py #Tested by Anderuimm
+- [ ]  quests/161_FruitsOfMothertree/init.py #Tested by Anderuimm
+- [ ]  quests/162_CurseOfFortress/init.py
+- [ ]  quests/163_LegacyOfPoet/init.py
+- [ ]  quests/164_BloodFiend/init.py
+- [ ]  quests/165_ShilensHunt/init.py
+- [ ]  quests/166_MassOfDarkness/init.py
+- [ ]  quests/167_DwarvenKinship/init.py
+- [ ]  quests/168_DeliverSupplies/init.py
+- [ ]  quests/169_OffspringOfNightmares/init.py
+- [ ]  quests/170_DangerousSeduction/init.py
+- [ ]  quests/171_ActsOfEvil/init.py
+- [ ]  quests/211_TrialOfChallenger/init.py
+- [ ]  quests/212_TrialOfDuty/init.py
+- [ ]  quests/213_TrialOfSeeker/init.py
+[x]- [ ]  quests/214_TrialOfScholar/init.py # Tested byNattan Felipe
+- [ ]  quests/215_TrialOfPilgrim/init.py
+- [ ]  quests/216_TrialOfGuildsman/init.py
+- [ ]  quests/217_TestimonyOfTrust/init.py
+- [ ]  quests/218_TestimonyOfLife/init.py
 [x]- [  ] quests/219_TestimonyOfFate/init.py # Tested By Nattan Felipe (Na hora de falar com as Blood Pixy, notei que apenas uma estava funcionando, apesar de ser o mesmo ID de todas elas!
- - [  ] quests/220_TestimonyOfGlory/init.py
- - [  ] quests/221_TestimonyOfProsperity/init.py
- - [  ] quests/222_TestOfDuelist/init.py
- - [  ] quests/223_TestOfChampion/init.py
- - [  ] quests/224_TestOfSagittarius/init.py
- - [  ] quests/225_TestOfSearcher/init.py
- - [  ] quests/226_TestOfHealer/init.py
- - [  ] quests/227_TestOfReformer/init.py
-[x] - [  ] quests/228_TestOfMagus/init.py # Tested By Nattan - (Obs: Com exceção do probleminha que postei a print abaixo, a quest está toda certinha sem problemas, a diferença é que aparece aquele quadrado preto, conforme a img).
- - [  ] quests/229_TestOfWitchcraft/init.py
- - [  ] quests/230_TestOfSummoner/init.py
- - [  ] quests/231_TestOfMaestro/init.py
- - [  ] quests/232_TestOfLord/init.py
- - [  ] quests/233_TestOfWarspirit/init.py
- - [  ] quests/234_FatesWhisper/init.py
- - [  ] quests/235_MimirsElixir/init.py
- - [  ] quests/241_PossessorOfAPreciousSoul_1/init.py
- - [  ] quests/242_PossessorOfAPreciousSoul_2/init.py
- - [  ] quests/246_PossessorOfAPreciousSoul_3/init.py
- - [  ] quests/247_PossessorOfAPreciousSoul_4/init.py
- - [  ] quests/255_Tutorial/init.py
- - [  ] quests/257_GuardIsBusy/init.py
- - [  ] quests/258_BringWolfPelt/init.py
- - [  ] quests/259_RanchersPlea/init.py
- - [  ] quests/260_HuntForOrcs/init.py
- - [  ] quests/261_CollectorsDream/init.py
- - [  ] quests/262_TradeWithIvoryTower/init.py
- - [  ] quests/263_OrcSubjugation/init.py
- - [  ] quests/264_KeenClaws/init.py
- - [  ] quests/265_ChainsOfSlavery/init.py
- - [  ] quests/266_PleaOfPixies/init.py
- - [  ] quests/267_WrathOfVerdure/init.py
- - [  ] quests/271_ProofOfValor/init.py
- - [  ] quests/272_WrathOfAncestors/init.py
- - [  ] quests/273_InvadersOfHolyland/init.py
- - [  ] quests/274_SkirmishWithWerewolves/init.py
- - [  ] quests/275_DarkWingedSpies/init.py
- - [  ] quests/276_HestuiTotem/init.py
- - [  ] quests/277_GatekeepersOffering/init.py
- - [  ] quests/291_RedBonnetsRevenge/init.py
- - [  ] quests/292_BrigandsSweep/init.py
- - [  ] quests/293_HiddenVein/init.py
- - [  ] quests/294_CovertBusiness/init.py
- - [  ] quests/295_DreamsOfSkies/init.py
- - [  ] quests/296_SilkOfTarantula/init.py
- - [  ] quests/297_GatekeepersFavor/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/298_LizardmensConspiracy/init.py
- - [  ] quests/299_GatherIngredientsForPie/init.py
- - [  ] quests/300_HuntingLetoLizardman/init.py
- - [  ] quests/303_CollectArrowheads/init.py
- - [  ] quests/306_CrystalOfFireice/init.py
- - [  ] quests/313_CollectSpores/init.py
- - [  ] quests/316_DestroyPlagueCarriers/init.py
- - [  ] quests/317_CatchTheWind/init.py
- - [  ] quests/319_ScentOfDeath/init.py
- - [  ] quests/320_BonesTellFuture/init.py
- - [  ] quests/324_SweetestVenom/init.py
- - [  ] quests/325_GrimCollector/init.py
- - [  ] quests/326_VanquishRemnants/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/327_ReclaimTheLand/init.py
- - [  ] quests/328_SenseForBusiness/init.py
- - [  ] quests/329_CuriosityOfDwarf/init.py
- - [  ] quests/330_AdeptOfTaste/init.py
- - [  ] quests/331_ArrowOfVengeance/init.py
- - [  ] quests/333_BlackLionHunt/init.py
- - [  ] quests/334_TheWishingPotion/init.py
- - [  ] quests/335_SongOfTheHunter/init.py
- - [  ] quests/336_CoinOfMagic/init.py
- - [  ] quests/337_AudienceWithTheLandDragon/init.py
- - [  ] quests/338_AlligatorHunter/init.py
- - [  ] quests/340_SubjugationOfLizardmen/init.py
- - [  ] quests/341_HuntingForWildBeasts/init.py
- - [  ] quests/343_UnderTheShadowOfTheIvoryTower/init.py
- - [  ] quests/344_1000YearsEndofLamentation/init.py
- - [  ] quests/345_MethodToRaiseTheDead/init.py
- - [  ] quests/347_GoGetTheCalculator/init.py
- - [  ] quests/348_ArrogantSearch/init.py Tested and Fixed by Tayran
- - [  ] quests/350_EnhanceYourWeapon/init.py
- - [  ] quests/351_BlackSwan/init.py
- - [  ] quests/352_HelpRoodRaiseANewPet/init.py
- - [  ] quests/353_PowerOfDarkness/init.py
- - [  ] quests/354_ConquestOfAlligatorIsland/init.py
- - [  ] quests/355_FamilyHonor/init.py
- - [  ] quests/356_DigUpTheSeaOfSpores/init.py
- - [  ] quests/357_WarehouseKeepersAmbition/init.py
- - [  ] quests/358_IllegitimateChildOfAGoddess/init.py
- - [  ] quests/359_ForSleeplessDeadmen/init.py
- - [  ] quests/360_PlunderTheirSupplies/init.py
- - [  ] quests/362_BardsMandolin/init.py
- - [  ] quests/363_SorrowfulSoundofFlute/init.py
- - [  ] quests/364_JovialAccordion/init.py
- - [  ] quests/365_DevilsLegacy/init.py
- - [  ] quests/366_SilverHairedShaman/init.py
- - [  ] quests/367_ElectrifyingRecharge/init.py
- - [  ] quests/368_TrespassingIntoTheSacredArea/init.py
- - [  ] quests/369_CollectorOfJewels/init.py
- - [  ] quests/370_AWisemanSowsSeeds/init.py
- - [  ] quests/371_ShriekOfGhosts/init.py
- - [  ] quests/372_LegacyOfInsolence/init.py
- - [  ] quests/373_SupplierOfReagents/init.py
- - [  ] quests/374_WhisperOfDreams1/init.py
- - [  ] quests/375_WhisperOfDreams2/init.py
- - [  ] quests/376_GiantsExploration1/init.py
- - [  ] quests/377_GiantsExploration2/init.py
- - [  ] quests/378_MagnificentFeast/init.py
- - [  ] quests/379_FantasyWine/init.py
- - [  ] quests/380_BringOutTheFlavorOfIngredients/init.py
- - [  ] quests/381_LetsBecomeARoyalMember/init.py
- - [  ] quests/382_KailsMagicCoin/init.py
- - [  ] quests/383_SearchingForTreasure/init.py
- - [  ] quests/384_WarehouseKeepersPastime/init.py
- - [  ] quests/385_YokeofthePast/init.py
- - [  ] quests/386_StolenDignity/init.py
- - [  ] quests/401_PathToWarrior/init.py Working
- - [  ] quests/402_PathToKnight/init.py
- - [  ] quests/403_PathToRogue/init.py #Tested by Anderuimm
- - [  ] quests/404_PathToWizard/init.py #Tested by Anderuimm
- - [  ] quests/405_PathToCleric/init.py #Tested by Anderuimm
- - [  ] quests/406_PathToElvenKnight/init.py
- - [  ] quests/407_PathToElvenScout/init.py
- - [  ] quests/408_PathToElvenwizard/init.py
- - [  ] quests/409_PathToOracle/init.py
- - [  ] quests/410_PathToPalusKnight/init.py
- - [  ] quests/411_PathToAssassin/init.py
- - [  ] quests/412_PathToDarkwizard/init.py # Tested byNattan Felipe
- - [  ] quests/413_PathToShillienOracle/init.py
- - [  ] quests/414_PathToOrcRaider/init.py
- - [  ] quests/415_PathToOrcMonk/init.py
- - [  ] quests/416_PathToOrcShaman/init.py
- - [  ] quests/417_PathToScavenger/init.py
- - [  ] quests/418_PathToArtisan/init.py #Tested by Anderuimm
- - [  ] quests/419_GetAPet/init.py
- - [  ] quests/420_LittleWings/init.py
- - [  ] quests/421_LittleWingAdventures/init.py
- - [  ] quests/422_RepentYourSins/init.py
- - [  ] quests/426_FishingShot/init.py
- - [  ] quests/431_WeddingMarch/init.py
- - [  ] quests/432_BirthdayPartySong/init.py
- - [  ] quests/501_ProofOfClanAlliance/init.py
- - [  ] quests/503_PursuitClanAmbition/init.py
- - [  ] quests/504_CompetitionfortheBanditStronghold/init.py
- - [  ] quests/505_BloodOffering/init.py
- - [  ] quests/508_TheClansReputation/init.py
- - [  ] quests/509_TheClansPrestige/init.py
- - [  ] quests/510_AClansReputation/init.py
- - [  ] quests/601_WatchingEyes/init.py
- - [  ] quests/602_ShadowOfLight/init.py
- - [  ] quests/603_DaimontheWhiteEyedPart1/init.py
- - [  ] quests/604_DaimontheWhiteEyedPart2/init.py
- - [  ] quests/605_AllianceWithKetraOrcs/init.py
- - [  ] quests/606_WarWithVarkaSilenos/init.py
- - [  ] quests/607_ProveYourCourage_Ketra/init.py
- - [  ] quests/608_SlayTheEnemyCommander_Ketra/init.py
- - [  ] quests/609_MagicalPowerOfWaterPart1/init.py
- - [  ] quests/610_MagicalPowerOfWaterPart2/init.py
- - [  ] quests/611_AllianceWithVarkaSilenos/init.py
- - [  ] quests/612_WarWithKetraOrcs/init.py
- - [  ] quests/613_ProveYourCourage_Varka/init.py
- - [  ] quests/614_SlayTheEnemyCommander_Varka/init.py
- - [  ] quests/615_MagicalPowerOfFirePart1/init.py
- - [  ] quests/616_MagicalPowerOfFirePart2/init.py
- - [  ] quests/617_GatherTheFlames/init.py
- - [  ] quests/618_IntoTheFlame/init.py Tested by Nattan Felipe and Working
- - [  ] quests/619_RelicsOfTheOldEmpire/init.py
- - [  ] quests/620_FourGoblets/init.py
- - [  ] quests/621_EggDelivery/init.py
- - [  ] quests/622_DeliveryOfSpecialLiquor/init.py
- - [  ] quests/623_TheFinestFood/init.py
- - [  ] quests/624_TheFinestIngredientsPart1/init.py
- - [  ] quests/625_TheFinestIngredientsPart2/init.py
- - [  ] quests/626_ADarkTwilight/init.py
- - [  ] quests/627_HeartInSearchOfPower/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/628_HuntGoldenRam/init.py
- - [  ] quests/629_CleanUpTheSwampOfScreams/init.py
- - [  ] quests/631_DeliciousTopChoiceMeat/init.py #Tested by LeonardoHolanda and Working
- - [  ] quests/632_NecromancersRequest/init.py
- - [  ] quests/633_InTheForgottenVillage/init.py
- - [  ] quests/634_InSearchofDimensionalFragments/init.py
- - [  ] quests/635_InTheDimensionalRift/init.py
- - [  ] quests/636_TruthBeyond/init.py
- - [  ] quests/637_ThroughOnceMore/init.py
- - [  ] quests/638_SeekersOfTheHolyGrail/init.py
- - [  ] quests/639_GuardiansOfTheHolyGrail/init.py
- - [  ] quests/640_TheZeroHour/init.py
- - [  ] quests/641_AttackSailren/init.py
- - [  ] quests/642_APowerfulPrimevalCreature/init.py
- - [  ] quests/643_RiseandFalloftheElrokiTribe/init.py
- - [  ] quests/644_GraveRobberAnnihilation/init.py
- - [  ] quests/645_GhostsOfBatur/init.py
- - [  ] quests/647_InfluxOfMachines/init.py
- - [  ] quests/648_AnIceMerchantsDream/init.py
- - [  ] quests/649_ALooterAndARailroadMan/init.py
- - [  ] quests/650_ABrokenDream/init.py
- - [  ] quests/651_RunawayYouth/init.py
- - [  ] quests/652_AnAgedExAdventurer/init.py
- - [  ] quests/653_WildMaiden/init.py
- - [  ] quests/654_JourneyToSettlement/init.py
- - [  ] quests/655_AGrandPlanforTamingWildBeasts/init.py
- - [  ] quests/659_IdRatherBeCollectingFairyBreath/init.py
- - [  ] quests/660_AidingtheFloranVillage/init.py
- - [  ] quests/661_TheHarvestGroundsSafe/init.py
- - [  ] quests/662_AGameOfCards/init.py
- - [  ] quests/663_SeductiveWhispers/init.py
- - [  ] quests/688_DefeatTheElrokianRaiders/init.py
- - [  ] quests/999_InterludeTutorial/init.py
- - [  ] quests/SagasSuperclass/init.py #33
+- [ ]  quests/220_TestimonyOfGlory/init.py
+- [ ]  quests/221_TestimonyOfProsperity/init.py
+- [ ]  quests/222_TestOfDuelist/init.py
+- [ ]  quests/223_TestOfChampion/init.py
+- [ ]  quests/224_TestOfSagittarius/init.py
+- [ ]  quests/225_TestOfSearcher/init.py
+- [ ]  quests/226_TestOfHealer/init.py
+- [ ]  quests/227_TestOfReformer/init.py
+[x]- [ ]  quests/228_TestOfMagus/init.py # Tested By Nattan - (Obs: Com exceção do probleminha que postei a print abaixo, a quest está toda certinha sem problemas, a diferença é que aparece aquele quadrado preto, conforme a img).
+- [ ]  quests/229_TestOfWitchcraft/init.py
+- [ ]  quests/230_TestOfSummoner/init.py
+- [ ]  quests/231_TestOfMaestro/init.py
+- [ ]  quests/232_TestOfLord/init.py
+- [ ]  quests/233_TestOfWarspirit/init.py
+- [ ]  quests/234_FatesWhisper/init.py
+- [ ]  quests/235_MimirsElixir/init.py
+- [ ]  quests/241_PossessorOfAPreciousSoul_1/init.py
+- [ ]  quests/242_PossessorOfAPreciousSoul_2/init.py
+- [ ]  quests/246_PossessorOfAPreciousSoul_3/init.py
+- [ ]  quests/247_PossessorOfAPreciousSoul_4/init.py
+- [ ]  quests/255_Tutorial/init.py
+- [ ]  quests/257_GuardIsBusy/init.py
+- [ ]  quests/258_BringWolfPelt/init.py
+- [ ]  quests/259_RanchersPlea/init.py
+- [ ]  quests/260_HuntForOrcs/init.py
+- [ ]  quests/261_CollectorsDream/init.py
+- [ ]  quests/262_TradeWithIvoryTower/init.py
+- [ ]  quests/263_OrcSubjugation/init.py
+- [ ]  quests/264_KeenClaws/init.py
+- [ ]  quests/265_ChainsOfSlavery/init.py
+- [ ]  quests/266_PleaOfPixies/init.py
+- [ ]  quests/267_WrathOfVerdure/init.py
+- [ ]  quests/271_ProofOfValor/init.py
+- [ ]  quests/272_WrathOfAncestors/init.py
+- [ ]  quests/273_InvadersOfHolyland/init.py
+- [ ]  quests/274_SkirmishWithWerewolves/init.py
+- [ ]  quests/275_DarkWingedSpies/init.py
+- [ ]  quests/276_HestuiTotem/init.py
+- [ ]  quests/277_GatekeepersOffering/init.py
+- [ ]  quests/291_RedBonnetsRevenge/init.py
+- [ ]  quests/292_BrigandsSweep/init.py
+- [ ]  quests/293_HiddenVein/init.py
+- [ ]  quests/294_CovertBusiness/init.py
+- [ ]  quests/295_DreamsOfSkies/init.py
+- [ ]  quests/296_SilkOfTarantula/init.py
+- [ ]  quests/297_GatekeepersFavor/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/298_LizardmensConspiracy/init.py
+- [ ]  quests/299_GatherIngredientsForPie/init.py
+- [ ]  quests/300_HuntingLetoLizardman/init.py
+- [ ]  quests/303_CollectArrowheads/init.py
+- [ ]  quests/306_CrystalOfFireice/init.py
+- [ ]  quests/313_CollectSpores/init.py
+- [ ]  quests/316_DestroyPlagueCarriers/init.py
+- [ ]  quests/317_CatchTheWind/init.py
+- [ ]  quests/319_ScentOfDeath/init.py
+- [ ]  quests/320_BonesTellFuture/init.py
+- [ ]  quests/324_SweetestVenom/init.py
+- [ ]  quests/325_GrimCollector/init.py
+- [ ]  quests/326_VanquishRemnants/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/327_ReclaimTheLand/init.py
+- [ ]  quests/328_SenseForBusiness/init.py
+- [ ]  quests/329_CuriosityOfDwarf/init.py
+- [ ]  quests/330_AdeptOfTaste/init.py
+- [ ]  quests/331_ArrowOfVengeance/init.py
+- [ ]  quests/333_BlackLionHunt/init.py
+- [ ]  quests/334_TheWishingPotion/init.py
+- [ ]  quests/335_SongOfTheHunter/init.py
+- [ ]  quests/336_CoinOfMagic/init.py
+- [ ]  quests/337_AudienceWithTheLandDragon/init.py
+- [ ]  quests/338_AlligatorHunter/init.py
+- [ ]  quests/340_SubjugationOfLizardmen/init.py
+- [ ]  quests/341_HuntingForWildBeasts/init.py
+- [ ]  quests/343_UnderTheShadowOfTheIvoryTower/init.py
+- [ ]  quests/344_1000YearsEndofLamentation/init.py
+- [ ]  quests/345_MethodToRaiseTheDead/init.py
+- [ ]  quests/347_GoGetTheCalculator/init.py
+- [ ]  quests/348_ArrogantSearch/init.py Tested and Fixed by Tayran
+- [ ]  quests/350_EnhanceYourWeapon/init.py
+- [ ]  quests/351_BlackSwan/init.py
+- [ ]  quests/352_HelpRoodRaiseANewPet/init.py
+- [ ]  quests/353_PowerOfDarkness/init.py
+- [ ]  quests/354_ConquestOfAlligatorIsland/init.py
+- [ ]  quests/355_FamilyHonor/init.py
+- [ ]  quests/356_DigUpTheSeaOfSpores/init.py
+- [ ]  quests/357_WarehouseKeepersAmbition/init.py
+- [ ]  quests/358_IllegitimateChildOfAGoddess/init.py
+- [ ]  quests/359_ForSleeplessDeadmen/init.py
+- [ ]  quests/360_PlunderTheirSupplies/init.py
+- [ ]  quests/362_BardsMandolin/init.py
+- [ ]  quests/363_SorrowfulSoundofFlute/init.py
+- [ ]  quests/364_JovialAccordion/init.py
+- [ ]  quests/365_DevilsLegacy/init.py
+- [ ]  quests/366_SilverHairedShaman/init.py
+- [ ]  quests/367_ElectrifyingRecharge/init.py
+- [ ]  quests/368_TrespassingIntoTheSacredArea/init.py
+- [ ]  quests/369_CollectorOfJewels/init.py
+- [ ]  quests/370_AWisemanSowsSeeds/init.py
+- [ ]  quests/371_ShriekOfGhosts/init.py
+- [ ]  quests/372_LegacyOfInsolence/init.py
+- [ ]  quests/373_SupplierOfReagents/init.py
+- [ ]  quests/374_WhisperOfDreams1/init.py
+- [ ]  quests/375_WhisperOfDreams2/init.py
+- [ ]  quests/376_GiantsExploration1/init.py
+- [ ]  quests/377_GiantsExploration2/init.py
+- [ ]  quests/378_MagnificentFeast/init.py
+- [ ]  quests/379_FantasyWine/init.py
+- [ ]  quests/380_BringOutTheFlavorOfIngredients/init.py
+- [ ]  quests/381_LetsBecomeARoyalMember/init.py
+- [ ]  quests/382_KailsMagicCoin/init.py
+- [ ]  quests/383_SearchingForTreasure/init.py
+- [ ]  quests/384_WarehouseKeepersPastime/init.py
+- [ ]  quests/385_YokeofthePast/init.py
+- [ ]  quests/386_StolenDignity/init.py
+- [ ]  quests/401_PathToWarrior/init.py Working
+- [ ]  quests/402_PathToKnight/init.py
+- [ ]  quests/403_PathToRogue/init.py #Tested by Anderuimm
+- [ ]  quests/404_PathToWizard/init.py #Tested by Anderuimm
+- [ ]  quests/405_PathToCleric/init.py #Tested by Anderuimm
+- [ ]  quests/406_PathToElvenKnight/init.py
+- [ ]  quests/407_PathToElvenScout/init.py
+- [ ]  quests/408_PathToElvenwizard/init.py
+- [ ]  quests/409_PathToOracle/init.py
+- [ ]  quests/410_PathToPalusKnight/init.py
+- [ ]  quests/411_PathToAssassin/init.py
+- [ ]  quests/412_PathToDarkwizard/init.py # Tested byNattan Felipe
+- [ ]  quests/413_PathToShillienOracle/init.py
+- [ ]  quests/414_PathToOrcRaider/init.py
+- [ ]  quests/415_PathToOrcMonk/init.py
+- [ ]  quests/416_PathToOrcShaman/init.py
+- [ ]  quests/417_PathToScavenger/init.py
+- [ ]  quests/418_PathToArtisan/init.py #Tested by Anderuimm
+- [ ]  quests/419_GetAPet/init.py
+- [ ]  quests/420_LittleWings/init.py
+- [ ]  quests/421_LittleWingAdventures/init.py
+- [ ]  quests/422_RepentYourSins/init.py
+- [ ]  quests/426_FishingShot/init.py
+- [ ]  quests/431_WeddingMarch/init.py
+- [ ]  quests/432_BirthdayPartySong/init.py
+- [ ]  quests/501_ProofOfClanAlliance/init.py
+- [ ]  quests/503_PursuitClanAmbition/init.py
+- [ ]  quests/504_CompetitionfortheBanditStronghold/init.py
+- [ ]  quests/505_BloodOffering/init.py
+- [ ]  quests/508_TheClansReputation/init.py
+- [ ]  quests/509_TheClansPrestige/init.py
+- [ ]  quests/510_AClansReputation/init.py
+- [ ]  quests/601_WatchingEyes/init.py
+- [ ]  quests/602_ShadowOfLight/init.py
+- [ ]  quests/603_DaimontheWhiteEyedPart1/init.py
+- [ ]  quests/604_DaimontheWhiteEyedPart2/init.py
+- [ ]  quests/605_AllianceWithKetraOrcs/init.py
+- [ ]  quests/606_WarWithVarkaSilenos/init.py
+- [ ]  quests/607_ProveYourCourage_Ketra/init.py
+- [ ]  quests/608_SlayTheEnemyCommander_Ketra/init.py
+- [ ]  quests/609_MagicalPowerOfWaterPart1/init.py
+- [ ]  quests/610_MagicalPowerOfWaterPart2/init.py
+- [ ]  quests/611_AllianceWithVarkaSilenos/init.py
+- [ ]  quests/612_WarWithKetraOrcs/init.py
+- [ ]  quests/613_ProveYourCourage_Varka/init.py
+- [ ]  quests/614_SlayTheEnemyCommander_Varka/init.py
+- [ ]  quests/615_MagicalPowerOfFirePart1/init.py
+- [ ]  quests/616_MagicalPowerOfFirePart2/init.py
+- [ ]  quests/617_GatherTheFlames/init.py
+- [ ]  quests/618_IntoTheFlame/init.py Tested by Nattan Felipe and Working
+- [ ]  quests/619_RelicsOfTheOldEmpire/init.py
+- [ ]  quests/620_FourGoblets/init.py
+- [ ]  quests/621_EggDelivery/init.py
+- [ ]  quests/622_DeliveryOfSpecialLiquor/init.py
+- [ ]  quests/623_TheFinestFood/init.py
+- [ ]  quests/624_TheFinestIngredientsPart1/init.py
+- [ ]  quests/625_TheFinestIngredientsPart2/init.py
+- [ ]  quests/626_ADarkTwilight/init.py
+- [ ]  quests/627_HeartInSearchOfPower/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/628_HuntGoldenRam/init.py
+- [ ]  quests/629_CleanUpTheSwampOfScreams/init.py
+- [ ]  quests/631_DeliciousTopChoiceMeat/init.py #Tested by LeonardoHolanda and Working
+- [ ]  quests/632_NecromancersRequest/init.py
+- [ ]  quests/633_InTheForgottenVillage/init.py
+- [ ]  quests/634_InSearchofDimensionalFragments/init.py
+- [ ]  quests/635_InTheDimensionalRift/init.py
+- [ ]  quests/636_TruthBeyond/init.py
+- [ ]  quests/637_ThroughOnceMore/init.py
+- [ ]  quests/638_SeekersOfTheHolyGrail/init.py
+- [ ]  quests/639_GuardiansOfTheHolyGrail/init.py
+- [ ]  quests/640_TheZeroHour/init.py
+- [ ]  quests/641_AttackSailren/init.py
+- [ ]  quests/642_APowerfulPrimevalCreature/init.py
+- [ ]  quests/643_RiseandFalloftheElrokiTribe/init.py
+- [ ]  quests/644_GraveRobberAnnihilation/init.py
+- [ ]  quests/645_GhostsOfBatur/init.py
+- [ ]  quests/647_InfluxOfMachines/init.py
+- [ ]  quests/648_AnIceMerchantsDream/init.py
+- [ ]  quests/649_ALooterAndARailroadMan/init.py
+- [ ]  quests/650_ABrokenDream/init.py
+- [ ]  quests/651_RunawayYouth/init.py
+- [ ]  quests/652_AnAgedExAdventurer/init.py
+- [ ]  quests/653_WildMaiden/init.py
+- [ ]  quests/654_JourneyToSettlement/init.py
+- [ ]  quests/655_AGrandPlanforTamingWildBeasts/init.py
+- [ ]  quests/659_IdRatherBeCollectingFairyBreath/init.py
+- [ ]  quests/660_AidingtheFloranVillage/init.py
+- [ ]  quests/661_TheHarvestGroundsSafe/init.py
+- [ ]  quests/662_AGameOfCards/init.py
+- [ ]  quests/663_SeductiveWhispers/init.py
+- [ ]  quests/688_DefeatTheElrokianRaiders/init.py
+- [ ]  quests/999_InterludeTutorial/init.py
+- [ ]  quests/SagasSuperclass/init.py #33
