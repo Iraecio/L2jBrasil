@@ -5,33 +5,13 @@ $DBROOT = "root";
 $DBROOTPASS = "123456";
 
 /*Configurando as constantes*/
-$DATABASE = "development";
+$DATABASE = "l2jdb";
 $DBUSER = "cabir";
-$DBPASS = "961219810";
+$DBPASS = "l2jcabir";
 $DBHOST = "127.0.0.1";
-$APIURL = "http://api.net";
-$ADMINMAIL = "irabound@hotmail.com";
-$DROPBOXAPPKEY = "p1mx-oNu0JAAAAAAAAAAD7QWiuIAcU4Bemar17JK8AJh8369rRqHqOddKKAq_t9B";
 
 /* DAtabase */
 $pathToMysqldump = "";
-
-/* Criando as constantes */
-$constantes = "<?php\n";
-$constantes .= "namespace Apigility;\n";
-$constantes .= "const DEV = true;\n";
-
-$constantes .= "const DATABASE = '" . $DATABASE . "';\n";
-$constantes .= "const DBUSER = '" . $DBUSER . "';\n";
-$constantes .= "const DBPASS = '" . $DBPASS . "';\n";
-$constantes .= "const DBHOST = '" . $DBHOST . "';\n";
-$constantes .= "const APIURL = '" . $APIURL . "';\n";
-
-$constanteFile = __DIR__ . "/constants.php";
-if (!is_dir($constanteFile) && file_exists($constanteFile))
-    @unlink($constanteFile);
-
-file_put_contents($constanteFile, $constantes);
 
 /* Cria o sql para criar as tabelas */
 $banco = file_get_contents(__DIR__ . "/api.sql");

@@ -3,8 +3,34 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Config/src" isTestSource="false" packagePrefix="ZendCliSkeleton\" />
+      <excludeFolder url="file://$MODULE_DIR$/Config/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Config/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-console" />
+      <excludeFolder url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-filter" />
+      <excludeFolder url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-stdlib" />
+      <excludeFolder url="file://$MODULE_DIR$/Config/vendor/zfcampus/zf-console" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/Config/vendor/composer" />
+          <root url="file://$MODULE_DIR$/Config/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-console" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-filter" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zfcampus/zf-console" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/Config/vendor/composer" />
+          <root url="file://$MODULE_DIR$/Config/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-console" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-filter" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/Config/vendor/zfcampus/zf-console" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
