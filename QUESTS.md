@@ -24,7 +24,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [x]  quests/20_BringUpWithLove/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/21_HiddenTruth/init.py
 - [ ]  quests/22_TragedyInVonHellmannForest/init.py
-- [ ]  quests/23_LidiasHeart/init.py
+- [x]  quests/23_LidiasHeart/init.py
 - [ ]  quests/24_InhabitantsOfTheForrestOfTheDead/init.py
 - [ ]  quests/25_HidingBehindTheTruth/init.py
 - [ ]  quests/27_ChestCaughtWithABaitOfWind/init.py
