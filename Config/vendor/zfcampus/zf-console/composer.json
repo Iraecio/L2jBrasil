@@ -1,0 +1,62 @@
+{
+    "name": "zfcampus/zf-console",
+    "description": "Library for creating and dispatching console commands",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "zf",
+        "zendframework",
+        "console"
+    ],
+    "support": {
+        "issues": "https://github.com/zfcampus/zf-console/issues",
+        "source": "https://github.com/zfcampus/zf-console",
+        "rss": "https://github.com/zfcampus/zf-console/releases.atom",
+        "slack": "https://zendframework-slack.herokuapp.com",
+        "forum": "https://discourse.zendframework.com/c/questions/apigility"
+    },
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "psr/container": "^1.0",
+        "zendframework/zend-console": "^2.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7.25 || ^6.4.4",
+        "zendframework/zend-coding-standard": "~1.0.0",
+        "zendframework/zend-filter": "^2.7.1",
+        "zendframework/zend-validator": "^2.8.1"
+    },
+    "suggest": {
+        "zendframework/zend-filter": "^2.7.1; Useful for filtering/normalizing argument values",
+        "zendframework/zend-validator": "^2.8.1; Useful for providing more thorough argument validation logic"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZF\\Console\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ZFTest\\Console\\": "test/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4-dev",
+            "dev-develop": "1.5-dev"
+        }
+    },
+    "scripts": {
+        "check": [
+            "@cs-check",
+            "@test"
+        ],
+        "cs-check": "phpcs",
+        "cs-fix": "phpcbf",
+        "test": "phpunit --colors=always",
+        "test-coverage": "phpunit --colors=always --coverage-clover clover.xml",
+        "upload-coverage": "coveralls -v"
+    }
+}
