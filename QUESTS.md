@@ -2,26 +2,26 @@
 Lista de todas as quest testadas e ainda em fase de teste
 
 ### lista
-- [ ]  quests/1_LettersOfLove/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/2_WhatWomenWant/init.py #Tested and Fixed by LeonardoHolanda
-- [ ]  quests/3_WillSealBeBroken/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/4_LongLiveLordOfFlame/init.py #Tested and Fixed by LeonardoHolanda
-- [ ]  quests/5_MinersFavor/init.py #Tested and Fixed by LeonardoHolanda
-- [ ]  quests/6_StepIntoTheFuture/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/7_ATripBegins/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/8_AnAdventureBegins/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/9_IntoTheCityOfHumans/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/10_IntoTheWorld/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/11_SecretMeetingWithKetraOrcs/init.py#Tested by LeonardoHolanda and Working
-- [ ]  quests/12_SecretMeetingWithVarkaSilenos/init.py#Tested by LeonardoHolanda and Working
-- [ ]  quests/13_ParcelDelivery/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/14_WhereaboutsOfTheArchaeologist/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/15_SweetWhisper/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/16_TheComingDarkness/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/17_LightAndDarkness/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/18_MeetingWithTheGoldenRam/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/19_GoToThePastureland/init.py #Tested by LeonardoHolanda and Working
-- [ ]  quests/20_BringUpWithLove/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/1_LettersOfLove/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/2_WhatWomenWant/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/3_WillSealBeBroken/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/4_LongLiveLordOfFlame/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/5_MinersFavor/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/6_StepIntoTheFuture/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/7_ATripBegins/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/8_AnAdventureBegins/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/9_IntoTheCityOfHumans/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/10_IntoTheWorld/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/11_SecretMeetingWithKetraOrcs/init.py#Tested by LeonardoHolanda and Working
+- [x]  quests/12_SecretMeetingWithVarkaSilenos/init.py#Tested by LeonardoHolanda and Working
+- [x]  quests/13_ParcelDelivery/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/14_WhereaboutsOfTheArchaeologist/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/15_SweetWhisper/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/16_TheComingDarkness/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/17_LightAndDarkness/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/18_MeetingWithTheGoldenRam/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/19_GoToThePastureland/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/20_BringUpWithLove/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/21_HiddenTruth/init.py
 - [ ]  quests/22_TragedyInVonHellmannForest/init.py
 - [ ]  quests/23_LidiasHeart/init.py
@@ -31,7 +31,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/28_ChestCaughtWithABaitOfIcyAir/init.py
 - [ ]  quests/29_ChestCaughtWithABaitOfEarth/init.py
 - [ ]  quests/30_ChestCaughtWithABaitOfFire/init.py
-- [ ]  quests/31_SecretBuriedInTheSwamp/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/31_SecretBuriedInTheSwamp/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/32_AnObviousLie/init.py
 - [ ]  quests/33_MakeAPairOfDressShoes/init.py
 - [ ]  quests/34_InSearchOfClothes/init.py
@@ -40,14 +40,14 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/37_PleaseMakeMeFormalWear/init.py
 - [ ]  quests/38_DragonFangs/init.py
 - [ ]  quests/39_RedEyedInvaders/init.py
-- [ ]  quests/42_HelpTheUncle/init.py #Tested and Fixed by LeonardoHolanda
-- [ ]  quests/43_HelpTheSister/init.py #Tested and Fixed by LeonardoHolanda
-- [ ]  quests/44_HelpTheSon/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/42_HelpTheUncle/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/43_HelpTheSister/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/44_HelpTheSon/init.py #Tested and Fixed by LeonardoHolanda
 - [ ]  quests/45_ToTalkingIsland/init.py
 - [ ]  quests/46_OnceMoreInTheArmsOfTheMotherTree/init.py
 - [ ]  quests/47_IntoTheDarkForest/init.py
 - [ ]  quests/48_ToTheImmortalPlateau/init.py
-- [ ]  quests/49_TheRoadHome/init.py #Tested by Anderuimm
+- [x]  quests/49_TheRoadHome/init.py #Tested by Anderuimm
 - [ ]  quests/50_LanoscosSpecialBait/init.py
 - [ ]  quests/51_OFullesSpecialBait/init.py
 - [ ]  quests/52_WilliesSpecialBait/init.py
@@ -85,17 +85,17 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/100_SagaOfTheMaestro/init.py
  [- [  ] quests/101_SwordOfSolidarity/init.py]
 (47a1f34) Tested and Fixed by LeonardoHolanda
-- [ ]  quests/102_SeaOfSporesFever/init.py #Tested and Fixed by LeonardoHolanda
+- [x]  quests/102_SeaOfSporesFever/init.py #Tested and Fixed by LeonardoHolanda
 - [ ]  quests/103_SpiritOfCraftsman/init.py
-- [ ]  quests/104_SpiritOfMirrors/init.py Tested and Fixed by LeonardoHolanda
+- [x]  quests/104_SpiritOfMirrors/init.py Tested and Fixed by LeonardoHolanda
 - [ ]  quests/105_SkirmishWithOrcs/init.py
 - [ ]  quests/106_ForgottenTruth/init.py
 - [ ]  quests/107_MercilessPunishment/init.py
 - [ ]  quests/108_JumbleTumbleDiamondFuss/init.py
 - [ ]  quests/109_InSearchOfTheNest/init.py
-- [ ]  quests/110_ToThePrimevalIsle/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/110_ToThePrimevalIsle/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/111_Elrokian_Hunters/init.py
-- [ ]  quests/112_WalkOfFate/init.py Tested and Fixed by LeonardoHolanda
+- [x]  quests/112_WalkOfFate/init.py Tested and Fixed by LeonardoHolanda
 - [ ]  quests/113_StatusOfTheBeaconTower/init.py
 - [ ]  quests/114_ResurrectionOfAnOldManager/init.py
 - [ ]  quests/115_TheOtherSideOfTruth/init.py
@@ -105,21 +105,21 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/119_LastImperialPrince/init.py
 - [ ]  quests/120_PavelsResearch/init.py
 - [ ]  quests/121_PavelTheGiants/init.py
-- [ ]  quests/122_OminousNews/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/122_OminousNews/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/123_TheLeaderAndTheFollower/init.py
 - [ ]  quests/124_MeetingTheElroki/init.py
 - [ ]  quests/127_KamaelAWindowToTheFuture/init.py
-- [ ]  quests/151_CureFeverDisease/init.py #Tested by Anderuimm and LeonardoHolanda
+- [x]  quests/151_CureFeverDisease/init.py #Tested by Anderuimm and LeonardoHolanda
 - [ ]  quests/152_ShardsOfGolem/init.py
-- [ ]  quests/153_DeliverGoods/init.py #Tested by Anderuimm and LeonardoHolanda
+- [x]  quests/153_DeliverGoods/init.py #Tested by Anderuimm and LeonardoHolanda
 - [ ]  quests/154_SacrificeToSea/init.py
-- [ ]  quests/155_FindSirWindawood/init.py #Tested by Anderuimm
+- [x]  quests/155_FindSirWindawood/init.py #Tested by Anderuimm
 - [ ]  quests/156_MillenniumLove/init.py
-- [ ]  quests/157_RecoverSmuggled/init.py #Tested by Anderuimm
+- [x]  quests/157_RecoverSmuggled/init.py #Tested by Anderuimm
 - [ ]  quests/158_SeedOfEvil/init.py
 - [ ]  quests/159_ProtectTheWaterSource/init.py
-- [ ]  quests/160_NerupasRequest/init.py #Tested by Anderuimm
-- [ ]  quests/161_FruitsOfMothertree/init.py #Tested by Anderuimm
+- [x]  quests/160_NerupasRequest/init.py #Tested by Anderuimm
+- [x]  quests/161_FruitsOfMothertree/init.py #Tested by Anderuimm
 - [ ]  quests/162_CurseOfFortress/init.py
 - [ ]  quests/163_LegacyOfPoet/init.py
 - [ ]  quests/164_BloodFiend/init.py
@@ -133,12 +133,12 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/211_TrialOfChallenger/init.py
 - [ ]  quests/212_TrialOfDuty/init.py
 - [ ]  quests/213_TrialOfSeeker/init.py
-[x]- [ ]  quests/214_TrialOfScholar/init.py # Tested byNattan Felipe
+- [x]  quests/214_TrialOfScholar/init.py # Tested byNattan Felipe
 - [ ]  quests/215_TrialOfPilgrim/init.py
 - [ ]  quests/216_TrialOfGuildsman/init.py
 - [ ]  quests/217_TestimonyOfTrust/init.py
 - [ ]  quests/218_TestimonyOfLife/init.py
-[x]- [  ] quests/219_TestimonyOfFate/init.py # Tested By Nattan Felipe (Na hora de falar com as Blood Pixy, notei que apenas uma estava funcionando, apesar de ser o mesmo ID de todas elas!
+- [x] quests/219_TestimonyOfFate/init.py # Tested By Nattan Felipe (Na hora de falar com as Blood Pixy, notei que apenas uma estava funcionando, apesar de ser o mesmo ID de todas elas!
 - [ ]  quests/220_TestimonyOfGlory/init.py
 - [ ]  quests/221_TestimonyOfProsperity/init.py
 - [ ]  quests/222_TestOfDuelist/init.py
@@ -147,7 +147,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/225_TestOfSearcher/init.py
 - [ ]  quests/226_TestOfHealer/init.py
 - [ ]  quests/227_TestOfReformer/init.py
-[x]- [ ]  quests/228_TestOfMagus/init.py # Tested By Nattan - (Obs: Com exceção do probleminha que postei a print abaixo, a quest está toda certinha sem problemas, a diferença é que aparece aquele quadrado preto, conforme a img).
+- [x]  quests/228_TestOfMagus/init.py # Tested By Nattan - (Obs: Com exceção do probleminha que postei a print abaixo, a quest está toda certinha sem problemas, a diferença é que aparece aquele quadrado preto, conforme a img).
 - [ ]  quests/229_TestOfWitchcraft/init.py
 - [ ]  quests/230_TestOfSummoner/init.py
 - [ ]  quests/231_TestOfMaestro/init.py
@@ -184,7 +184,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/294_CovertBusiness/init.py
 - [ ]  quests/295_DreamsOfSkies/init.py
 - [ ]  quests/296_SilkOfTarantula/init.py
-- [ ]  quests/297_GatekeepersFavor/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/297_GatekeepersFavor/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/298_LizardmensConspiracy/init.py
 - [ ]  quests/299_GatherIngredientsForPie/init.py
 - [ ]  quests/300_HuntingLetoLizardman/init.py
@@ -197,7 +197,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/320_BonesTellFuture/init.py
 - [ ]  quests/324_SweetestVenom/init.py
 - [ ]  quests/325_GrimCollector/init.py
-- [ ]  quests/326_VanquishRemnants/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/326_VanquishRemnants/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/327_ReclaimTheLand/init.py
 - [ ]  quests/328_SenseForBusiness/init.py
 - [ ]  quests/329_CuriosityOfDwarf/init.py
@@ -215,7 +215,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/344_1000YearsEndofLamentation/init.py
 - [ ]  quests/345_MethodToRaiseTheDead/init.py
 - [ ]  quests/347_GoGetTheCalculator/init.py
-- [ ]  quests/348_ArrogantSearch/init.py Tested and Fixed by Tayran
+- [x]  quests/348_ArrogantSearch/init.py Tested and Fixed by Tayran
 - [ ]  quests/350_EnhanceYourWeapon/init.py
 - [ ]  quests/351_BlackSwan/init.py
 - [ ]  quests/352_HelpRoodRaiseANewPet/init.py
@@ -254,22 +254,22 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/386_StolenDignity/init.py
 - [ ]  quests/401_PathToWarrior/init.py Working
 - [ ]  quests/402_PathToKnight/init.py
-- [ ]  quests/403_PathToRogue/init.py #Tested by Anderuimm
-- [ ]  quests/404_PathToWizard/init.py #Tested by Anderuimm
-- [ ]  quests/405_PathToCleric/init.py #Tested by Anderuimm
+- [x]  quests/403_PathToRogue/init.py #Tested by Anderuimm
+- [x]  quests/404_PathToWizard/init.py #Tested by Anderuimm
+- [x]  quests/405_PathToCleric/init.py #Tested by Anderuimm
 - [ ]  quests/406_PathToElvenKnight/init.py
 - [ ]  quests/407_PathToElvenScout/init.py
 - [ ]  quests/408_PathToElvenwizard/init.py
 - [ ]  quests/409_PathToOracle/init.py
 - [ ]  quests/410_PathToPalusKnight/init.py
 - [ ]  quests/411_PathToAssassin/init.py
-- [ ]  quests/412_PathToDarkwizard/init.py # Tested byNattan Felipe
+- [x]  quests/412_PathToDarkwizard/init.py # Tested byNattan Felipe
 - [ ]  quests/413_PathToShillienOracle/init.py
 - [ ]  quests/414_PathToOrcRaider/init.py
 - [ ]  quests/415_PathToOrcMonk/init.py
 - [ ]  quests/416_PathToOrcShaman/init.py
 - [ ]  quests/417_PathToScavenger/init.py
-- [ ]  quests/418_PathToArtisan/init.py #Tested by Anderuimm
+- [x]  quests/418_PathToArtisan/init.py #Tested by Anderuimm
 - [ ]  quests/419_GetAPet/init.py
 - [ ]  quests/420_LittleWings/init.py
 - [ ]  quests/421_LittleWingAdventures/init.py
@@ -301,7 +301,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/615_MagicalPowerOfFirePart1/init.py
 - [ ]  quests/616_MagicalPowerOfFirePart2/init.py
 - [ ]  quests/617_GatherTheFlames/init.py
-- [ ]  quests/618_IntoTheFlame/init.py Tested by Nattan Felipe and Working
+- [x]  quests/618_IntoTheFlame/init.py Tested by Nattan Felipe and Working
 - [ ]  quests/619_RelicsOfTheOldEmpire/init.py
 - [ ]  quests/620_FourGoblets/init.py
 - [ ]  quests/621_EggDelivery/init.py
@@ -310,10 +310,10 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/624_TheFinestIngredientsPart1/init.py
 - [ ]  quests/625_TheFinestIngredientsPart2/init.py
 - [ ]  quests/626_ADarkTwilight/init.py
-- [ ]  quests/627_HeartInSearchOfPower/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/627_HeartInSearchOfPower/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/628_HuntGoldenRam/init.py
 - [ ]  quests/629_CleanUpTheSwampOfScreams/init.py
-- [ ]  quests/631_DeliciousTopChoiceMeat/init.py #Tested by LeonardoHolanda and Working
+- [x]  quests/631_DeliciousTopChoiceMeat/init.py #Tested by LeonardoHolanda and Working
 - [ ]  quests/632_NecromancersRequest/init.py
 - [ ]  quests/633_InTheForgottenVillage/init.py
 - [ ]  quests/634_InSearchofDimensionalFragments/init.py
