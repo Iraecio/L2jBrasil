@@ -1,0 +1,36 @@
+{
+  "name": "slk/zend-cli-skeleton",
+  "description": "Zend Framework Skeleton for creating command line applications",
+  "version": "0.1",
+  "require": {
+    "php": ">=5.6",
+    "zfcampus/zf-console": "^1.0",
+    "zendframework/zend-filter": "^2.0"
+  },
+  "authors": [
+    {
+      "name": "Iraecio Sousa",
+      "email": "iraecio@hotmail.com",
+      "homepage": "https://cabir.com.br"
+    }
+  ],
+  "bin": [
+    "bin/cli.php"
+  ],
+  "autoload": {
+    "psr-4": {
+      "ZendCliSkeleton\\": "src/"
+    }
+  },
+   "scripts": {
+    "backup" : "php phpbu.phar --configuration=phpbu.json",
+    "config-dev": "@php ./src/Apigility/config-dev.php"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.org"
+    },
+    { "packagist": false }
+  ]
+}
