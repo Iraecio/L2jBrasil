@@ -1,16 +1,14 @@
 ##############################################
 #               L2j geodata                  #
 #                                            #
-#       All files are integral part          # 
-#          part of l2j server.               #
+#  Todos os arquivos são parte integrante    #
+#             do servidor l2j.               #
 #                                            #
 #                                            #
-#         To make geodata  working           #
-#          unpack all files into             #
+#      Para fazer funcionar o geodata        #
+#     Descompacte todos os arquivos em       #
 #        /gameserver/data/geodata            #
 #                 folder                     #
 #                                            #
-#       Current link to geodata files:       #
-#         http://geodata.devcod.com/         #
 #                                            #
 ##############################################

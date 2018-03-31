@@ -86,7 +86,6 @@ class Quest (JQuest) :
       st.set("cond","19")
     return htmltext
 
-
  def onTalk (self,npc,player):
    htmltext = "<html><body>You are either not carrying out your quest or don't meet the criteria.</body></html>"
    st = player.getQuestState(qn)
@@ -256,7 +255,6 @@ class Quest (JQuest) :
            st.playSound("ItemSound.quest_finish")
    return htmltext
 
-
  def onKill(self,npc,player,isPet):
    st = player.getQuestState(qn)
    if not st : return
@@ -328,7 +326,6 @@ CREATED     = State('Start', QUEST)
 STARTING    = State('Starting', QUEST)
 STARTED     = State('Started', QUEST)
 COMPLETED   = State('Completed', QUEST)
-
 
 QUEST.setInitialState(CREATED)
 QUEST.addStartNpc(30191)
