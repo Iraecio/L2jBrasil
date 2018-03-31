@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS accounts;
 DROP TABLE IF EXISTS account_data;
 DROP TABLE IF EXISTS armor;
 DROP TABLE IF EXISTS armorsets;
@@ -38,6 +39,7 @@ DROP TABLE IF EXISTS class_list;
 DROP TABLE IF EXISTS cursed_weapons;
 DROP TABLE IF EXISTS droplist;
 DROP TABLE IF EXISTS games;
+DROP TABLE IF EXISTS gameservers;
 DROP TABLE IF EXISTS enchant_skill_trees;
 DROP TABLE IF EXISTS etcitem;
 DROP TABLE IF EXISTS fort;
