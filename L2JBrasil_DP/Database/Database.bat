@@ -3,7 +3,7 @@
 REM ###############################################
 REM ##    Configuração conexão BD porfavor!      ##
 REM ###############################################
-REM Please, type here you dir to mysql directory \bin. Example : C:\Program Files\MySQL\MySQL Server 6.0\bin
+REM Porfavor, digite aqui o directorio seu mysql \bin. Exemplo: C:\Program Files\MySQL\MySQL Server 6.0\bin
 set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 6.0\bin
 
 set DateT=%date%
