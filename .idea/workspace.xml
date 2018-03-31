@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="596e7623-89e5-475b-bdad-b59337e2c851" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/L2JBrasil_DP/Database/Database.bat" afterPath="$PROJECT_DIR$/L2JBrasil_DP/Database/Database.bat" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="Database.bat" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/L2JBrasil_DP/Database/Database.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="74" column="33" lean-forward="true" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -115,12 +116,6 @@
               <item name="L2jBrasil" type="b2602c69:ProjectViewProjectNode" />
               <item name="L2jBrasil" type="462c0819:PsiDirectoryNode" />
               <item name="L2JBrasil_DP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L2jBrasil" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L2jBrasil" type="462c0819:PsiDirectoryNode" />
-              <item name="L2JBrasil_DP" type="462c0819:PsiDirectoryNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -694,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/L2JBrasil_DP/Database/Database.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="74" column="33" lean-forward="true" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
           <folding />
         </state>
       </provider>

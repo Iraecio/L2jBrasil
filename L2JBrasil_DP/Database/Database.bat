@@ -71,7 +71,7 @@ echo.
 set /a count=0
 for /f %%G in ('dir /a-d sql\*.sql /b') do (
 	set /a count+=1
-	echo *** !count! % Instalado com sucesso. **
+	echo *** !count!%% Instalado com sucesso. ***
 	IF NOT %%~G == accounts.sql (
 	    IF NOT %%~G == gameservers.sql (
 	        %mysqlPath% -h %gshost% -u %gsuser% --password=%gspass% -D %gsdb% < ../Database/sql/%%~G
