@@ -136,7 +136,7 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [x]  quests/214_TrialOfScholar/init.py # Tested byNattan Felipe
 - [ ]  quests/215_TrialOfPilgrim/init.py
 - [ ]  quests/216_TrialOfGuildsman/init.py
-- [ ]  quests/217_TestimonyOfTrust/init.py
+- [x]  quests/217_TestimonyOfTrust/init.py # Tested by JhonCovero bug nos items heard of porta. fixado para 10 items
 - [ ]  quests/218_TestimonyOfLife/init.py
 - [x] quests/219_TestimonyOfFate/init.py # Tested By Nattan Felipe (Na hora de falar com as Blood Pixy, notei que apenas uma estava funcionando, apesar de ser o mesmo ID de todas elas!
 - [ ]  quests/220_TestimonyOfGlory/init.py

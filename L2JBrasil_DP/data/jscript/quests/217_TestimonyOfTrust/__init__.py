@@ -36,7 +36,7 @@ DROPLIST={
 20232 :[ORDER_OF_CLAYTON_ID,STAKATOS_FLUIDS_ID,           5],
 20234 :[ORDER_OF_CLAYTON_ID,STAKATOS_FLUIDS_ID,           5],
 # For condition 19
-20213 :[ORDER_OF_NICHOLA_ID,HEART_OF_PORTA_ID,            1]
+20213 :[ORDER_OF_NICHOLA_ID,HEART_OF_PORTA_ID,            10]
 }
 
 
@@ -219,7 +219,7 @@ class Quest (JQuest) :
      elif cond == 20 :                                     # Condition 20 bring the 10 Heart of Porta to Nichola
          if npcId == 30621 and st.getQuestItemsCount(ORDER_OF_NICHOLA_ID) and st.getQuestItemsCount(HEART_OF_PORTA_ID)==10 :
            htmltext = "30621-04.htm"
-           st.takeItems(HEART_OF_PORTA_ID,1)
+           st.takeItems(HEART_OF_PORTA_ID,10)
            st.takeItems(ORDER_OF_NICHOLA_ID,1)
            st.set("cond","21")
      elif cond == 21 :                                     # Condition 21 take the letter to Lockirin
