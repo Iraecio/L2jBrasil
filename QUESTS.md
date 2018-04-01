@@ -124,9 +124,9 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/163_LegacyOfPoet/init.py
 - [ ]  quests/164_BloodFiend/init.py
 - [ ]  quests/165_ShilensHunt/init.py
-- [ ]  quests/166_MassOfDarkness/init.py
+- [x]  quests/166_MassOfDarkness/init.py #Tested by Iraecio
 - [ ]  quests/167_DwarvenKinship/init.py
-- [ ]  quests/168_DeliverSupplies/init.py
+- [x]  quests/168_DeliverSupplies/init.py #Tested by Iraecio
 - [ ]  quests/169_OffspringOfNightmares/init.py
 - [ ]  quests/170_DangerousSeduction/init.py
 - [ ]  quests/171_ActsOfEvil/init.py
@@ -166,9 +166,9 @@ Lista de todas as quest testadas e ainda em fase de teste
 - [ ]  quests/260_HuntForOrcs/init.py
 - [ ]  quests/261_CollectorsDream/init.py
 - [ ]  quests/262_TradeWithIvoryTower/init.py
-- [ ]  quests/263_OrcSubjugation/init.py
-- [ ]  quests/264_KeenClaws/init.py
-- [ ]  quests/265_ChainsOfSlavery/init.py
+- [x]  quests/263_OrcSubjugation/init.py #Tested by Iraecio
+- [x]  quests/264_KeenClaws/init.py #Tested by Iraecio
+- [x]  quests/265_ChainsOfSlavery/init.py #Tested by Iraecio
 - [ ]  quests/266_PleaOfPixies/init.py
 - [ ]  quests/267_WrathOfVerdure/init.py
 - [ ]  quests/271_ProofOfValor/init.py
